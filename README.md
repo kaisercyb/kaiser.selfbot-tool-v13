@@ -10,8 +10,8 @@
 
 # What to write to the .env file
 
-DISCORD_TOKEN=this_your_token
-DEVELOPER_PORTAL_ID=your_application_id
+# DISCORD_TOKEN=this_your_token
+# DEVELOPER_PORTAL_ID=your_application_id
 
 
 # Required Modules:
